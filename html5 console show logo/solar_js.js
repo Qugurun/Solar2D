@@ -1,6 +1,6 @@
 window.solar_js = 
 {
-	logo: function( verion ){
+	logo: function( version ){
 		var styles = [
 			'background: #ffcc01',
 			'background: #ff6601',
