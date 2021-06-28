@@ -14,7 +14,7 @@ window.solar_js =
 			'background: #FFFFFF'
 		];
 
-		console.log ( '%c %c %c %c %c %c %c SOLAR%c2D %c v'+verion+' %c https://solar2d.com',
+		console.log ( '%c %c %c %c %c %c %c SOLAR%c2D %c v'+version+' %c https://solar2d.com',
 			styles[0], styles[1], styles[2], styles[3],
 			styles[4], styles[5], styles[6], styles[7], styles[8], styles[9] );
 	}
